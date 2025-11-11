@@ -1,7 +1,7 @@
 import sys
 if len(sys.argv) ==2:
-    script_name=sys.argv[0]
-    temp=sys.argv[1]
+    script_name = temp.argv[0]
+    temp=temp.argv[1]
     print("user provided inputs")
 else:
     script_name=sys.argv[0]
